@@ -1,4 +1,6 @@
-## Bem Vindo ao meu perfil! 
+<div align="center"> 
+  <h2> Bem Vindo ao meu perfil! </h2>
+</div>
 
 <div align="center" href="https://github.com/vtres">
   <a href="https://github.com/vtres"> 
