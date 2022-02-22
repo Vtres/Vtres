@@ -33,7 +33,9 @@
   <a href = "mailto:viniciust98@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-tres-mittow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.facebook.com/trezmittow/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"> </a>
-  ![Snake animation](https://github.com/Vtres/Vtres/blob/output/github-contribution-grid-snake.svg)
+ 
+  ![Snake animation](https://github.com/vtres/vtres/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
  
 
