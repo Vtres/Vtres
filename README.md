@@ -24,7 +24,7 @@
   <img align="center" alt="Vini-gitHub" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> &nbsp;
   <img align="center" alt="Vini-gitHub" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> &nbsp;
   <img align="center" alt="Vini-gitHub" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" /> &nbsp;
-  <img align="center" alt="Vini-Photoshop" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> &nbsp;
+  <img align="center" alt="Vini-Photoshop" height="40" width="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
 ##
