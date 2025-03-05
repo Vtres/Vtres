@@ -1,5 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/28f1f110-5c38-4f6c-9412-a6ca434f125a)
+![Image](https://github.com/user-attachments/assets/ec2ecde6-58be-4f95-8d97-85497ce1b68a)
 <div align="center"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vtres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vtres&layout=compact&langs_count=7&theme=dracula"/>
